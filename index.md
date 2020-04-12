@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-<!-- One -->
+
+<!-- One
 <section id="one" class="wrapper style2 special">
 	<header class="major">
 		<h2>Sed ipsum magna lorem tempus amet<br />
@@ -15,8 +16,8 @@ title: Home
 		<li><span class="icon fa-cloud"><span class="label">Upload</span></span></li>
 	</ul>
 </section>
-
-<!-- Two -->
+-->
+<!-- Two
 <section id="two" class="wrapper">
 	<div class="inner alt">
 		<section class="spotlight">
@@ -52,6 +53,7 @@ title: Home
 	</div>
 </section>
 
+-->
 <!-- Four -->
 <!--
 <section id="four" class="wrapper">
