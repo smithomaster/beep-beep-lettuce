@@ -3,7 +3,7 @@ title: Emil Smith
 email: me@emilsmoothwall.com
 description: My website I suppose
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://me.emilsmith.net" # the base hostname & protocol for your site
+url: "https://emilsmith.net" # the base hostname & protocol for your site
 download_button_url: https://google.com
 
 # Social settings
